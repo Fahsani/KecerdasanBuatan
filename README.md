@@ -1,2 +1,0 @@
-# KecerdasanBuatan
-Random Forest Classifier
